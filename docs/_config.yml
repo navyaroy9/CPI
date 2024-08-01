@@ -1,0 +1,5 @@
+title: Navyaroy9's GitHub Pages Site
+description: A simple description of my site
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://navyaroy9.github.io" # the base hostname & protocol for your site
+theme: minima
